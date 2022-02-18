@@ -1,4 +1,5 @@
 # AutoClickTool
+![image](https://user-images.githubusercontent.com/42645583/154734891-94a3d5fc-baa8-4a7c-a3dc-b6762c88997f.png)
 
 
 |動作環境|.NetFramework4.8|
