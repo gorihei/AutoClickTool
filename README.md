@@ -1,8 +1,8 @@
 # AutoClickTool
-![image](https://user-images.githubusercontent.com/42645583/154734891-94a3d5fc-baa8-4a7c-a3dc-b6762c88997f.png)
+![無題](https://user-images.githubusercontent.com/42645583/154826454-e05ccf15-f47f-4599-879d-f804943d12b3.png)
 
 
-|動作環境|.NetFramework4.8|
+|動作環境|.NET6|
 |----|----|
 
 |LICENSE|MIT LICENSE|
